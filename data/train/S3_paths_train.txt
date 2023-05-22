@@ -1,0 +1,2 @@
+s3://itam-analytics-proyectofinal-zaret-daan/train/train_labels.data
+s3://itam-analytics-proyectofinal-zaret-daan/train/train_features.data
