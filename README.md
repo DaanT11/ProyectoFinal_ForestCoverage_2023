@@ -13,12 +13,13 @@ Review the environments.yaml file to use with conda. Use the following command t
 Data
 Data can be downloaded from Kaggle: [www.kaggle.com](https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset)
 
-RepoStructure
-data: files from train and test in csv format.
-plots: plots from eda
-msc: empty
-results: predictions in csv format
-src: Four .py scripts to explore, clean, process and predict.
-logs: has the log file to catch errors and info.
+Repo Structure
+- data: files from train and test in csv format.
+- plots: plots from eda
+- msc: empty
+- results: predictions in csv format
+- src: Four .py scripts to explore, clean, process and predict.
+- logs: has the log file to catch errors and info.
+
 Usage
 Main .py file will call the other modules and just be sure to have files in the same folder.
