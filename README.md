@@ -15,7 +15,7 @@ Data can be downloaded from Kaggle: [www.kaggle.com](https://www.kaggle.com/data
 
 Repo Structure
 - data: files from train and test in csv format.
-- plots: plots from eda
+- dashboard: pdf dashboard from QuickSight
 - msc: empty
 - results: predictions in csv format
 - src: Four .py scripts to explore, clean, process and predict.
