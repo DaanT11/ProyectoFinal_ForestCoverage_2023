@@ -1,0 +1,16 @@
+# environments.yml
+name: proyecto_final
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.13
+  - scikit-learn=1.2.0
+  - pandas
+  - numpy
+  - pytest
+  - ipython
+  - matplotlib
+  - seaborn
+  - pylint
+  - flake8
